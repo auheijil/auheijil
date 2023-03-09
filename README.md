@@ -57,7 +57,7 @@ width="800"  height="3">
 <tr>
 <td valign="top">
 
-[![Netease recently played](https://y.qq.com/n/ryqq/playlist/2340877745)](https://y.qq.com/n/ryqq/profile/like/song)
+[![Netease recently played](https://img1.baidu.com/it/u=3029021230,3884283972&fm=253&fmt=auto&app=138&f=GIF?w=220&h=100)](https://y.qq.com/n/ryqq/playlist/2340877745)
 
 </td>
 </tr>
