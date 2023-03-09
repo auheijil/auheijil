@@ -16,7 +16,7 @@ width="800"  height="3">
 
 ### 🤗 欢迎来访
 
-<img align='mid' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
+<img align='middle' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
 
 
 
