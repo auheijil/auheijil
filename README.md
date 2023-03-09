@@ -63,7 +63,7 @@ width="800"  height="3">
 <tr>
 <td valign="top">
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=316286554&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=350)](https://music.163.com/#/user/home?id=316286554](https://y.qq.com/n/ryqq/profile/like/song))
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=316286554&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=350)]([https://y.qq.com/n/ryqq/profile/like/song])
 
 </td>
 </tr>
