@@ -4,9 +4,7 @@
 
 
 ### 👋 Hi there
-<div align="center">
-<img align='center' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
-</div>
+
 
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=800&height=35&lines=we+are+all+in+the+gutter%2Cbut+some+of+us+are+looking+at+the+stars.)](https://git.io/typing-svg)
