@@ -39,7 +39,7 @@ width="800"  height="3">
 [![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/auheijil/auheijil/main/assets/github-contribution-grid-snake.svg)
 [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/auheijil/auheijil/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-[![](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)
+[![](https://activity-graph.herokuapp.com/graph?username=auheijil&theme=github)](https://activity-graph.herokuapp.com/graph?username=auheijil&theme=github)
 
 </div>
 
