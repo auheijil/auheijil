@@ -18,8 +18,8 @@ jobs:
           MAX_REPOS: 1000
       - name: Commit & Push
         run: |
-          git config user.name eryajf
-          git config user.email eryajf@163.com
+          git config user.name auheijil
+          git config user.email 1079547493@qq.com
           git add -A .
           git commit -m "generated"
           git push
