@@ -36,8 +36,8 @@ width="800"  height="3">
 
 <div align="center">
 
-[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/assets/github-contribution-grid-snake.svg)
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-3d-contrib/profile-night-rainbow.svg)
+[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/auheijil/auheijil/main/assets/github-contribution-grid-snake.svg)
+[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/auheijil/auheijil/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 [![](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)
 
