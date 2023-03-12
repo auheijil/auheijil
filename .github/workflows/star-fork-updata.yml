@@ -3,7 +3,7 @@ name: 这个仓库有 x 个 star y 个 fork
 on:
   push:
     branches:
-      - master
+      - main
   fork:
   watch:
     types:
@@ -20,4 +20,4 @@ jobs:
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          template: "eryajf readme profile with <starCount> stars and <forkCount> forks 🌟"
+          template: "auheijil readme profile with <starCount> stars and <forkCount> forks 🌟"
