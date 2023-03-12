@@ -5,7 +5,7 @@
 
 ### 👋 Hi there
 <div align="center">
-<img align='center' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 </div>
 
 <div align="center">
