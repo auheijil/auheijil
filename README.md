@@ -26,10 +26,10 @@ width="1200"  height="3">
 
 
 
-### 💻 State
+### 💻 Stats
 
 <details open>
-<summary>点击展开 ...</summary>
+<summary>fold</summary>
 
 <div align="center">
 
@@ -48,7 +48,7 @@ width="1200"  height="3">
 ### 🎶 The most beautiful language
 
 <details open>
-<summary>点击展开 ...</summary>
+<summary>fold</summary>
 
 <table align="center">
 <tr>
